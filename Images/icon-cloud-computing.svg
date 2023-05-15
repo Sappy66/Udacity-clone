@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="41px" viewBox="0 0 40 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-cloud-computing</title>
+    <g id="Enterprise-Overview-V4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Enterprise-Overview-V4c-1" transform="translate(-573.000000, -4264.000000)">
+            <g id="Udacity's-digital-competency-platform" transform="translate(129.000000, 3837.000000)">
+                <g id="Cloud-Computing" transform="translate(424.000000, 412.000000)">
+                    <g id="icon-cloud-computing" transform="translate(20.000000, 15.000000)">
+                        <path d="M32.5450902,8.14527723 C31.6673995,8.14276464 30.7971201,8.30528263 29.97996,8.62429562 C28.3006065,2.88804559 22.6326998,-0.737613714 16.6964942,0.127098404 C10.7602886,0.991810523 6.37236186,6.08227776 6.41282554,12.0572607 L6.41282554,12.7757883 L5.21042072,12.6161155 C2.33278479,12.6161156 0,14.9394738 0,17.8054814 C0,20.6714889 2.33278479,22.9948472 5.21042072,22.9948472 L32.5450902,22.9948472 C36.6623232,22.9948472 40,19.6706577 40,15.5700622 C40,11.4694668 36.6623232,8.14527729 32.5450902,8.14527723 L32.5450902,8.14527723 Z" id="Path" fill="#3D79FF" fill-rule="nonzero"></path>
+                        <rect id="Rectangle" fill="#00C5A1" fill-rule="nonzero" x="11.2224448" y="18.3643362" width="17.715431" height="17.6598112" rx="1.60320642"></rect>
+                        <rect id="Rectangle" stroke="#0B0B0B" stroke-width="0.801603212" x="15.7915831" y="22.9948472" width="8.49699404" height="8.46265818" rx="0.801603212"></rect>
+                        <line x1="18.6773547" y1="18.3643362" x2="18.6773547" y2="14.4523527" id="Path" stroke="#0B0B0B" stroke-width="0.801603212" stroke-linecap="round"></line>
+                        <line x1="21.4829659" y1="18.3643362" x2="21.4829659" y2="14.4523527" id="Path" stroke="#0B0B0B" stroke-width="0.801603212" stroke-linecap="round"></line>
+                        <line x1="15.7915831" y1="18.3643362" x2="15.7915831" y2="14.4523527" id="Path" stroke="#0B0B0B" stroke-width="0.801603212" stroke-linecap="round"></line>
+                        <line x1="24.2885772" y1="18.3643362" x2="24.2885772" y2="14.4523527" id="Path" stroke="#0B0B0B" stroke-width="0.801603212" stroke-linecap="round"></line>
+                        <line x1="18.6773547" y1="40" x2="18.6773547" y2="36.0880165" id="Path" stroke="#0B0B0B" stroke-width="0.801603212" stroke-linecap="round"></line>
+                        <line x1="21.4829659" y1="40" x2="21.4829659" y2="36.0880165" id="Path" stroke="#0B0B0B" stroke-width="0.801603212" stroke-linecap="round"></line>
+                        <line x1="15.7915831" y1="40" x2="15.7915831" y2="36.0880165" id="Path" stroke="#0B0B0B" stroke-width="0.801603212" stroke-linecap="round"></line>
+                        <line x1="24.2885772" y1="40" x2="24.2885772" y2="36.0880165" id="Path" stroke="#0B0B0B" stroke-width="0.801603212" stroke-linecap="round"></line>
+                        <line x1="32.8657315" y1="28.6632315" x2="28.9378758" y2="28.6632315" id="Path" stroke="#0B0B0B" stroke-width="0.801603212" stroke-linecap="round"></line>
+                        <line x1="32.8657315" y1="25.7891212" x2="28.9378758" y2="25.7891212" id="Path" stroke="#0B0B0B" stroke-width="0.801603212" stroke-linecap="round"></line>
+                        <line x1="32.8657315" y1="31.4575054" x2="28.9378758" y2="31.4575054" id="Path" stroke="#0B0B0B" stroke-width="0.801603212" stroke-linecap="round"></line>
+                        <line x1="32.8657315" y1="22.9948472" x2="28.9378758" y2="22.9948472" id="Path" stroke="#0B0B0B" stroke-width="0.801603212" stroke-linecap="round"></line>
+                        <line x1="11.1422845" y1="28.6632315" x2="7.21442875" y2="28.6632315" id="Path" stroke="#0B0B0B" stroke-width="0.801603212" stroke-linecap="round"></line>
+                        <line x1="11.1422845" y1="25.7891212" x2="7.21442875" y2="25.7891212" id="Path" stroke="#0B0B0B" stroke-width="0.801603212" stroke-linecap="round"></line>
+                        <line x1="11.1422845" y1="31.4575054" x2="7.21442875" y2="31.4575054" id="Path" stroke="#0B0B0B" stroke-width="0.801603212" stroke-linecap="round"></line>
+                        <line x1="11.1422845" y1="22.9948472" x2="7.21442875" y2="22.9948472" id="Path" stroke="#0B0B0B" stroke-width="0.801603212" stroke-linecap="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

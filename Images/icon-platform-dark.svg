@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="38px" viewBox="0 0 41 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-platform</title>
+    <defs>
+        <polygon id="path-1" points="0 0 33.1063484 0 33.1063484 21.113 0 21.113"></polygon>
+    </defs>
+    <g id="Enterprise-Product" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Enterprise-Product-1a" transform="translate(-642.000000, -1683.000000)">
+            <g id="2.-Platform" transform="translate(130.000000, 1683.000000)">
+                <g id="Text" transform="translate(303.360000, 0.000000)">
+                    <g id="icon-platform" transform="translate(208.640000, 0.000000)">
+                        <g id="Group-3" transform="translate(0.000000, 15.553700)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-2"></g>
+                            <path d="M5.4276,21.113 L31.2026,21.113 C32.4076,21.113 33.3096,19.995 33.0666,18.802 L29.5426,1.535 C29.3596,0.641 28.5816,0 27.6786,0 L1.9036,0 C0.6986,0 -0.2034,1.118 0.0396,2.311 L3.5636,19.579 C3.7466,20.472 4.5246,21.113 5.4276,21.113" id="Fill-1" fill="#2043FF" mask="url(#mask-2)"></path>
+                        </g>
+                        <line x1="22.2569" y1="31.9401" x2="26.2819" y2="31.9401" id="Stroke-4" stroke="#FFFFFF" stroke-linecap="round"></line>
+                        <line x1="9.3258" y1="31.9401" x2="19.2068" y2="31.9401" id="Stroke-6" stroke="#FFFFFF" stroke-linecap="round"></line>
+                        <line x1="17.8041" y1="28.0536" x2="21.5491" y2="28.0536" id="Stroke-8" stroke="#FFFFFF" stroke-linecap="round"></line>
+                        <line x1="8.3392" y1="28.0536" x2="14.9172" y2="28.0536" id="Stroke-10" stroke="#FFFFFF" stroke-linecap="round"></line>
+                        <line x1="19.969" y1="24.1671" x2="24.545" y2="24.1671" id="Stroke-12" stroke="#FFFFFF" stroke-linecap="round"></line>
+                        <line x1="7.5882" y1="24.1671" x2="17.2042" y2="24.1671" id="Stroke-14" stroke="#FFFFFF" stroke-linecap="round"></line>
+                        <line x1="11.199" y1="20.2806" x2="6.824" y2="20.2806" id="Stroke-16" stroke="#FFFFFF" stroke-linecap="round"></line>
+                        <line x1="17.8041" y1="20.2806" x2="13.9631" y2="20.2806" id="Stroke-18" stroke="#FFFFFF" stroke-linecap="round"></line>
+                        <line x1="5.4276" y1="36.6667" x2="39.9996" y2="36.6667" id="Stroke-20" stroke="#0B0B0B" stroke-linecap="round"></line>
+                        <path d="M26.2823,0 C26.2823,0 21.6293,3.609 17.7483,3.609 L17.7483,12.757 C17.7483,14.659 18.5263,16.37 19.8303,17.333 C21.1913,18.339 25.2573,21.02 25.4293,21.134 L26.2823,21.696 L27.1353,21.134 C27.3073,21.02 31.3733,18.339 32.7343,17.333 C34.0383,16.37 34.8163,14.659 34.8163,12.757 L34.8163,3.609 C30.9353,3.609 26.2823,0 26.2823,0" id="Fill-22" fill="#00C5A1"></path>
+                        <polyline id="Stroke-24" stroke="#0B0B0B" stroke-linecap="round" points="22.5749 10.3467 25.5869 13.3587 30.5099 8.4357"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

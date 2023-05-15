@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="32px" viewBox="0 0 42 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-school-business</title>
+    <g id="Enterprise-Overview-V4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Enterprise-Overview-V4c-1" transform="translate(-658.000000, -4114.000000)">
+            <g id="Udacity's-digital-competency-platform" transform="translate(129.000000, 3837.000000)">
+                <g id="Business" transform="translate(510.000000, 258.000000)">
+                    <g id="icon-school-business" transform="translate(20.000000, 19.000000)">
+                        <path d="M20,16.0007157 L37.6,16.0007157 C38.9254834,16.0007157 40,17.0751842 40,18.4006083 L40,32 L20,32 L20,16.0007157 Z" id="Path" fill="#BEE807" fill-rule="nonzero"></path>
+                        <path d="M17.6,0.00143132037 L0,0.00143132037 L0,32 L6.88,32 L6.88,26.4802469 L13.12,26.4802469 L13.12,32 L20,32 L20,2.40132397 C20.0225888,1.75817404 19.7769936,1.13453984 19.3219172,0.679483775 C18.8668408,0.224427707 18.2431787,-0.0211564624 17.6,0.00143132037 Z" id="Path" fill="#00C5A1" fill-rule="nonzero"></path>
+                        <line x1="0" y1="26.6402397" x2="40" y2="26.6402397" id="Path" stroke="#0B0B0B" stroke-width="0.8" stroke-linecap="round"></line>
+                        <line x1="0" y1="21.3604759" x2="40" y2="21.3604759" id="Path" stroke="#0B0B0B" stroke-width="0.8" stroke-linecap="round"></line>
+                        <line x1="0" y1="16.0007157" x2="20" y2="16.0007157" id="Path" stroke="#0B0B0B" stroke-width="0.8" stroke-linecap="round"></line>
+                        <line x1="0" y1="10.6409554" x2="20" y2="10.6409554" id="Path" stroke="#0B0B0B" stroke-width="0.8" stroke-linecap="round"></line>
+                        <line x1="0" y1="5.36119157" x2="20" y2="5.36119157" id="Path" stroke="#0B0B0B" stroke-width="0.8" stroke-linecap="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

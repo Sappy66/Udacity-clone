@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="33px" viewBox="0 0 41 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-school-programmin-development</title>
+    <g id="Enterprise-Overview-V4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Enterprise-Overview-V4c-1" transform="translate(-235.000000, -3965.000000)">
+            <g id="Udacity's-digital-competency-platform" transform="translate(129.000000, 3837.000000)">
+                <g id="Programming-&amp;-Development" transform="translate(86.000000, 109.000000)">
+                    <g id="icon-school-programmin-development" transform="translate(20.000000, 19.500000)">
+                        <path d="M5.46322749,31.6049383 L31.2059144,31.6049383 C31.7782809,31.5938017 32.315718,31.330653 32.6714524,30.8873578 C33.0271868,30.4440627 33.1640548,29.8669323 33.0446778,29.3135802 L29.5270435,12.4839506 C29.341475,11.622098 28.579671,11.000133 27.6882802,10.9825297 L1.94559325,10.9825297 C1.37613707,10.9748342 0.83256561,11.2173785 0.461932099,11.6447331 C0.0912985876,12.0720878 -0.0680908468,12.6400843 0.0268836646,13.1950617 L3.62446413,30.1037037 C3.81003267,30.9655563 4.57183663,31.5875213 5.46322749,31.6049383 Z" id="Path" fill="#3F7DFF" fill-rule="nonzero"></path>
+                        <line x1="22.2519363" y1="27.0222222" x2="26.3291942" y2="27.0222222" id="Path" stroke="#0B0B0B" stroke-width="0.799462327" stroke-linecap="round"></line>
+                        <line x1="9.38059289" y1="27.0222222" x2="19.2139795" y2="27.0222222" id="Path" stroke="#0B0B0B" stroke-width="0.799462327" stroke-linecap="round"></line>
+                        <line x1="17.8548936" y1="23.1506173" x2="21.5324203" y2="23.1506173" id="Path" stroke="#0B0B0B" stroke-width="0.799462327" stroke-linecap="round"></line>
+                        <line x1="8.34129186" y1="23.1506173" x2="14.8968829" y2="23.1506173" id="Path" stroke="#0B0B0B" stroke-width="0.799462327" stroke-linecap="round"></line>
+                        <line x1="20.0134418" y1="19.3580247" x2="24.5703771" y2="19.3580247" id="Path" stroke="#0B0B0B" stroke-width="0.799462327" stroke-linecap="round"></line>
+                        <line x1="7.62177577" y1="19.3580247" x2="17.2153237" y2="19.3580247" id="Path" stroke="#0B0B0B" stroke-width="0.799462327" stroke-linecap="round"></line>
+                        <line x1="11.2193562" y1="15.5654321" x2="6.82231344" y2="15.5654321" id="Path" stroke="#0B0B0B" stroke-width="0.799462327" stroke-linecap="round"></line>
+                        <line x1="17.8548936" y1="15.5654321" x2="14.0174744" y2="15.5654321" id="Path" stroke="#0B0B0B" stroke-width="0.799462327" stroke-linecap="round"></line>
+                        <line x1="5.46322749" y1="31.6049383" x2="40" y2="31.6049383" id="Path" stroke="#0B0B0B" stroke-width="0.799462327" stroke-linecap="round"></line>
+                        <rect id="Rectangle" fill="#BEE807" fill-rule="nonzero" x="20.0933881" y="0" width="15.9892465" height="15.8024691" rx="1.59892465"></rect>
+                        <polyline id="Path" stroke="#0B0B0B" stroke-width="0.799462327" stroke-linecap="round" points="25.4497857 10.8246914 22.491775 7.90123457 25.4497857 4.97777778"></polyline>
+                        <polyline id="Path" stroke="#0B0B0B" stroke-width="0.799462327" stroke-linecap="round" points="30.726237 10.8246914 33.7641939 7.90123457 30.726237 4.97777778"></polyline>
+                        <line x1="29.2072586" y1="5.13580247" x2="27.1286565" y2="10.6666667" id="Path" stroke="#0B0B0B" stroke-width="0.799462327" stroke-linecap="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

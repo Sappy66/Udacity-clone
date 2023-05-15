@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="41px" viewBox="0 0 34 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-school-autonomous-systems</title>
+    <g id="Enterprise-Overview-V4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Enterprise-Overview-V4c-1" transform="translate(-577.000000, -3960.000000)">
+            <g id="Udacity's-digital-competency-platform" transform="translate(129.000000, 3837.000000)">
+                <g id="Autonomous-Systems" transform="translate(424.000000, 109.000000)">
+                    <g id="icon-school-autonomous-systems" transform="translate(25.000000, 15.000000)">
+                        <path d="M11.04,10.4047775 C11.2609592,10.0253609 11.5298332,9.67594073 11.84,9.36512258 C13.1303968,8.02782205 14.9679153,7.36386348 16.8154153,7.56733408 C18.6629153,7.77080468 20.311774,8.81872823 21.28,10.4047775" id="Path" stroke="#0B0B0B" stroke-width="0.79973457" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M5.92,4.72666208 L6.48,4.08687442 C11.7209381,-1.26723592 20.3068232,-1.37452388 25.68,3.84695405 L26.4,4.64668862" id="Path" stroke="#0B0B0B" stroke-width="0.79973457" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M8.32,7.60570653 L9.12,6.64602504 C12.9647296,2.79108955 19.1881441,2.71998841 23.12,6.48607813 L23.92,7.44575962" id="Path" stroke="#0B0B0B" stroke-width="0.79973457" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M28.96,25.6797078 L26.08,19.3618047 C25.0107197,17.1184659 22.7252502,15.7100822 20.24,15.7629991 L11.76,15.7629991 C9.27474985,15.7100822 6.98928025,17.1184659 5.92,19.3618047 L3.04,25.6797078 C7.32922484,26.3292797 11.6618485,26.6501083 16,26.6393893 C20.3381515,26.6501083 24.6707752,26.3292797 28.96,25.6797078 L28.96,25.6797078 Z" id="Path" fill="#3D79FF" fill-rule="nonzero"></path>
+                        <path d="M28.96,25.6797078 C24.6707752,26.3292797 20.3381515,26.6501083 16,26.6393893 C11.6618485,26.6501083 7.32922484,26.3292797 3.04,25.6797078 L2.72,26.4794424 C2.23699757,27.4761771 1.9906047,28.5708932 1.99974106,29.6783807 L1.99974106,35.9962838 L30.0002589,35.9962838 L30.0002589,29.6783807 C30.0093953,28.5708932 29.7630024,27.4761771 29.28,26.4794424 L28.96,25.6797078 Z" id="Path" fill="#00C5A1" fill-rule="nonzero"></path>
+                        <path d="M6,35.9962838 L6,39.1952221 C6,39.6369033 5.6418278,39.9949566 5.2,39.9949566 L2.8,39.9949566 C2.58086804,40.0210122 2.36188535,39.9451716 2.20584343,39.7891815 C2.04980152,39.6331914 1.97393574,39.4142813 2,39.1952221 L2,35.9962838" id="Path" fill="#2042FF" fill-rule="nonzero"></path>
+                        <path d="M30,35.9962838 L30,39.1952221 C30.0260643,39.4142813 29.9501985,39.6331914 29.7941566,39.7891815 C29.6381147,39.9451716 29.419132,40.0210122 29.2,39.9949566 L26.8,39.9949566 C26.3581722,39.9949566 26,39.6369033 26,39.1952221 L26,35.9962838" id="Path" fill="#2042FF" fill-rule="nonzero"></path>
+                        <path d="M32,25.1998671 C26.7235995,26.180044 21.3666819,26.6620066 16,26.6393893 C10.6333181,26.6620066 5.27640046,26.180044 0,25.1998671" id="Path" stroke="#0B0B0B" stroke-width="0.79973457" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <line x1="12.32" y1="31.5977436" x2="19.68" y2="31.5977436" id="Path" stroke="#0B0B0B" stroke-width="0.79973457" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="4.88" y1="31.5977436" x2="7.04" y2="31.5977436" id="Path" stroke="#0B0B0B" stroke-width="0.79973457" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="24.96" y1="31.5977436" x2="27.12" y2="31.5977436" id="Path" stroke="#0B0B0B" stroke-width="0.79973457" stroke-linecap="round" stroke-linejoin="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <link rel="stylesheet" href="/CSS/style.css">
+  </head>
+  <body style="background-color: rgb(249,249,250);">
+    
+     <!----------------------- Navbar Part ------------------------->
+
+    <div class="logo-dashboard  ps-5 pt-3 pb-3 d-flex">
+        <svg viewBox="0 0 32 32" focusable="false" class="chakra-icon css-xnaeop" aria-hidden="true"><path fill="currentColor" d="M23.5 6.24v12.88c0 2.084-.377 3.915-1.025 5.493 2.65-.35 7.408-2.154 7.408-9.586V2.359L23.5 6.24zM10.833 2.294l-8.697 5.02.2 11.69c0 8.587 6.21 10.85 9.414 10.85 1.947 0 5.078-.793 7.235-3.342-3.874-1.005-8.152-4.438-8.152-11.485V2.294zM29.883 0L32 1.073v13.954c0 5.639-2.739 8.963-5.818 10.581L17.333 30.5l.026-.037C15.567 31.488 13.595 32 11.75 32 6.41 32 0 27.707 0 19.12V6.24L10.833 0l2.117 1.073v13.954c0 7.312 4.605 9.176 7.28 9.568.699-1.438 1.134-3.238 1.134-5.475V5.167L29.884 0z"></path></svg>
+
+        <div class="profile-details">
+
+        <span class="text-light me-5 profile-text">MY PROGRAMS</span>
+
+        <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-question-circle text-light me-4" viewBox="0 0 16 16">
+            <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+            <path d="M5.255 5.786a.237.237 0 0 0 .241.247h.825c.138 0 .248-.113.266-.25.09-.656.54-1.134 1.342-1.134.686 0 1.314.343 1.314 1.168 0 .635-.374.927-.965 1.371-.673.489-1.206 1.06-1.168 1.987l.003.217a.25.25 0 0 0 .25.246h.811a.25.25 0 0 0 .25-.25v-.105c0-.718.273-.927 1.01-1.486.609-.463 1.244-.977 1.244-2.056 0-1.511-1.276-2.241-2.673-2.241-1.267 0-2.655.59-2.75 2.286zm1.557 5.763c0 .533.425.927 1.01.927.609 0 1.028-.394 1.028-.927 0-.552-.42-.94-1.029-.94-.584 0-1.009.388-1.009.94z"/>
+          </svg>
+
+          
+          <!-------------- <div class="dropdown"> ---------------->
+            <button type="button" class="btn btn4" data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside">
+              <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-person-circle text-light me-4" viewBox="0 0 16 16">
+                <path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>
+                <path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/>
+              </svg>
+            </button>
+            <form class="dropdown-menu p-4">
+              <div class="mb-3">
+                <label for="exampleDropdownFormEmail2" class="form-label">Email address</label>
+                <input type="email" class="form-control" id="exampleDropdownFormEmail2" placeholder="email@example.com">
+              </div>
+              <div class="mb-3">
+                <label for="exampleDropdownFormPassword2" class="form-label">Password</label>
+                <input type="password" class="form-control" id="exampleDropdownFormPassword2" placeholder="Password">
+              </div>
+              <div class="mb-3">
+                <div class="form-check">
+                  <input type="checkbox" class="form-check-input" id="dropdownCheck2">
+                  <label class="form-check-label" for="dropdownCheck2">
+                    Remember me
+                  </label>
+                </div>
+              </div>
+              <button type="submit" class="btn btn-primary">Sign in</button>
+            </form>
+          </div>
+        
+        </div>
+    </div>
+
+    <!---------------------------- Header Part -------------------------->
+
+    <div class="dashboard-contents">
+
+        <div class="dash-header mt-4">
+            <span>My Programs</span>
+        </div>
+
+        <div class="dashboard-btn mt-5">
+            <button class="btn btn1 text-light rounded-5 ps-4 me-3">
+                Currently Learning
+            </button>
+
+            <button class="btn btn2 text-dark rounded-5 ps-4 ">
+                Completed
+            </button>
+        </div>
+
+        <div class="dashboard-body d-block shadow mt-4 pt-5 pb-5">
+            <img class="" src="./Images/mountains.svg" alt="">
+
+            <p class="mt-4 dash-page1">Enroll in Your Next Program</p>
+
+            <p class="dash-page2">Take the next step in your learning journey.</p>
+
+            <button class="btn btn3 text-light rounded-3">
+                BROWSE THE CATALOG
+            </button>
+        </div>
+
+    </div>
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+  </body>
+</html>

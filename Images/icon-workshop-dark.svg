@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="40px" viewBox="0 0 41 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-workshop-dark</title>
+    <g id="Enterprise-Product" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Enterprise-Product-1a" transform="translate(-835.000000, -925.000000)">
+            <g id="1.-Workshop" transform="translate(130.000000, 883.000000)">
+                <g id="Text" transform="translate(704.000000, 42.000000)">
+                    <g id="icon-workshop-dark" transform="translate(1.000000, 0.000000)">
+                        <polyline id="Stroke-1" stroke="#000000" points="35 15 40 20 35 25"></polyline>
+                        <path d="M4,36 L14,36 C17.314,36 20,33.314 20,30 L20,26 C20,22.686 22.686,20 26,20 L40,20" id="Stroke-3" stroke="#000000"></path>
+                        <path d="M4,4 L14,4 C17.314,4 20,6.686 20,10 L20,14 C20,17.314 22.686,20 26,20 L40,20" id="Stroke-5" stroke="#000000"></path>
+                        <path d="M4,32 C6.209,32 8,33.791 8,36 C8,38.209 6.209,40 4,40 C1.791,40 0,38.209 0,36 C0,33.791 1.791,32 4,32" id="Fill-7" fill="#3D7AFF"></path>
+                        <path d="M4,8 C6.209,8 8,6.209 8,4 C8,1.791 6.209,0 4,0 C1.791,0 0,1.791 0,4 C0,6.209 1.791,8 4,8" id="Fill-9" fill="#3D7AFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

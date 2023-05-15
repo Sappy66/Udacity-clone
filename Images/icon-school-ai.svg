@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-school-ai</title>
+    <g id="Enterprise-Overview-V4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Enterprise-Overview-V4c-1" transform="translate(-404.000000, -3852.000000)">
+            <g id="Udacity's-digital-competency-platform" transform="translate(129.000000, 3837.000000)">
+                <g id="AI" transform="translate(255.000000, 0.000000)">
+                    <g id="icon-school-ai" transform="translate(20.000000, 15.000000)">
+                        <path d="M28.8025821,15.7605884 C30.0023054,7.76078265 24.0836702,0.16096715 16.005533,0.000971033868 C12.4778491,-0.0418007447 9.07991016,1.32997078 6.57029532,3.81004193 C4.06068047,6.29011308 2.64835391,9.67197965 2.64861309,13.2006506 C2.66218487,13.7637138 2.71563984,14.3251067 2.8085762,14.8806098 L2.72859464,14.8806098 L0.0892032752,22.000437 C-0.0554438346,22.3121538 -0.0224644522,22.6774293 0.175674776,22.9581845 C0.373814003,23.2389396 0.706884798,23.3923422 1.04898195,23.360404 L3.12850242,23.360404 L3.12850242,27.2003107 C3.10706084,28.5083405 3.61160244,29.7702085 4.52890327,30.7027394 C5.44620409,31.6352703 6.69944162,32.1603661 8.00737737,32.1601903 L11.4465843,32.1601903 L16.005533,40 L28.642619,32.7201767 C27.4995413,30.3169657 26.8728713,27.7007599 26.8030432,25.0403632 C26.8030432,21.7604428 28.2427112,19.280503 28.8025821,15.7605884 Z" id="Path" fill="#BEE807" fill-rule="nonzero"></path>
+                        <rect id="Rectangle" fill="#E5EAEF" fill-rule="nonzero" x="10.0069163" y="10.3207205" width="13.2769384" height="13.2556782" rx="1.59963113"></rect>
+                        <rect id="Rectangle" fill="#E5EAEF" fill-rule="nonzero" x="10.0069163" y="10.3207205" width="13.2769384" height="13.2556782" rx="1.59963113"></rect>
+                        <rect id="Rectangle" stroke="#0B0B0B" stroke-width="0.799815566" fill="#E5EAEF" fill-rule="nonzero" x="13.3661417" y="13.6006409" width="6.63846919" height="6.631839" rx="0.799815566"></rect>
+                        <line x1="37.9204795" y1="16.9605593" x2="23.2838547" y2="16.9605593" id="Path" stroke="#0B0B0B" stroke-width="0.799815566" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <path d="M23.2838547,13.4406448 L30.6421579,13.4406448 C31.0838838,13.4406448 31.4419734,13.0824813 31.4419734,12.6406642 L31.4419734,9.12074964" id="Path" stroke="#0B0B0B" stroke-width="0.799815566" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <ellipse id="Oval" fill="#9E62FF" fill-rule="nonzero" cx="31.4419734" cy="8.08077489" rx="1.59963113" ry="1.59996116"></ellipse>
+                        <path d="M23.2838547,20.4004758 L30.6421579,20.4004758 C31.0965764,20.441963 31.4438626,20.8240566 31.4419811,21.2804544 L31.4419811,24.800369" id="Path" stroke="#0B0B0B" stroke-width="0.799815566" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <ellipse id="Oval" fill="#9E62FF" fill-rule="nonzero" cx="31.4419734" cy="25.7603457" rx="1.59963113" ry="1.59996116"></ellipse>
+                        <ellipse id="Oval" fill="#9E62FF" fill-rule="nonzero" cx="38.4003689" cy="16.9605593" rx="1.59963113" ry="1.59996116"></ellipse>
+                        <path d="M16.6453855,10.3207205 L16.6453855,5.44083897 C16.6868641,4.98632675 17.0688789,4.63896888 17.5251826,4.64085072 L23.2838547,4.64085072" id="Path" stroke="#0B0B0B" stroke-width="0.799815566" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <ellipse id="Oval" fill="#9E62FF" fill-rule="nonzero" cx="24.3236149" cy="4.64085839" rx="1.59963113" ry="1.59996116"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

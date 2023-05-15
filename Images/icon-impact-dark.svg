@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="42px" viewBox="0 0 35 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-impact</title>
+    <g id="Enterprise-Product" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Enterprise-Product-1a" transform="translate(-834.000000, -2632.000000)">
+            <g id="3.-Impact" transform="translate(130.000000, 2605.000000)">
+                <g id="Text" transform="translate(704.000000, 28.000000)">
+                    <g id="icon-impact" transform="translate(1.000000, 0.000000)">
+                        <path d="M5.333,33.333 L2.666,33.333 C1.194,33.333 0,32.139 0,30.666 L0,2.666 C0,1.194 1.194,0 2.666,0 L24,0 C25.472,0 26.666,1.194 26.666,2.666 L26.666,5" id="Stroke-1" stroke="#0B0B0B" stroke-linecap="round"></path>
+                        <path d="M30.533,39.9997 L8.133,39.9997 C6.587,39.9997 5.333,38.7457 5.333,37.1997 L5.333,7.7997 C5.333,6.2537 6.587,4.9997 8.133,4.9997 L30.533,4.9997 C32.079,4.9997 33.333,6.2537 33.333,7.7997 L33.333,37.1997 C33.333,38.7457 32.079,39.9997 30.533,39.9997 Z" id="Stroke-3" stroke="#0B0B0B" stroke-linecap="round"></path>
+                        <path d="M17.6594,12.8499 C17.6594,14.8719 16.0204,16.5099 13.9994,16.5099 C11.9774,16.5099 10.3384,14.8719 10.3384,12.8499 C10.3384,10.8279 11.9774,9.1899 13.9994,9.1899 C16.0204,9.1899 17.6594,10.8279 17.6594,12.8499" id="Fill-5" fill="#BDEA09"></path>
+                        <polyline id="Stroke-7" stroke="#0B0B0B" stroke-linecap="round" points="12.2292 12.6044 13.5732 13.9484 15.7692 11.7514"></polyline>
+                        <line x1="20.7232" y1="12.8499" x2="28.3272" y2="12.8499" id="Stroke-9" stroke="#0B0B0B" stroke-linecap="round"></line>
+                        <path d="M17.6594,22.4997 C17.6594,24.5217 16.0204,26.1597 13.9994,26.1597 C11.9774,26.1597 10.3384,24.5217 10.3384,22.4997 C10.3384,20.4777 11.9774,18.8397 13.9994,18.8397 C16.0204,18.8397 17.6594,20.4777 17.6594,22.4997" id="Fill-11" fill="#BDEA09"></path>
+                        <polyline id="Stroke-13" stroke="#0B0B0B" stroke-linecap="round" points="12.2292 22.2542 13.5732 23.5982 15.7692 21.4012"></polyline>
+                        <path d="M17.6594,32.1495 C17.6594,34.1715 16.0204,35.8095 13.9994,35.8095 C11.9774,35.8095 10.3384,34.1715 10.3384,32.1495 C10.3384,30.1275 11.9774,28.4895 13.9994,28.4895 C16.0204,28.4895 17.6594,30.1275 17.6594,32.1495" id="Fill-15" fill="#BDEA09"></path>
+                        <polyline id="Stroke-17" stroke="#0B0B0B" stroke-linecap="round" points="12.2292 31.904 13.5732 33.248 15.7692 31.051"></polyline>
+                        <line x1="20.7232" y1="22.4997" x2="28.3272" y2="22.4997" id="Stroke-19" stroke="#0B0B0B" stroke-linecap="round"></line>
+                        <line x1="20.7232" y1="32.1495" x2="28.3272" y2="32.1495" id="Stroke-21" stroke="#0B0B0B" stroke-linecap="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
